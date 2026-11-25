@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name              CloudLink Mobile
 // @namespace         github.com/Jimmy88666888/CloudLink-Mobile
-// @version           1.0.0
+// @version           1.0.1
 // @description       国际网盘手机直链助手：Google Drive / OneDrive / Dropbox。复制直链、1DM+、ytdlnis 格式，分享页一键复制。
 // @description:zh-CN 国际网盘手机直链助手：Google Drive / OneDrive / Dropbox。复制直链、1DM+、ytdlnis 格式，分享页一键复制。
 // @author            CloudLink Mobile
 // @license           MIT
+// @icon              https://raw.githubusercontent.com/Jimmy88666888/CloudLink-Mobile/main/icon.svg
 // @match             *://drive.google.com/*
 // @match             *://drive.usercontent.google.com/*
 // @match             *://docs.google.com/*
